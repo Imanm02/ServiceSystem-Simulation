@@ -34,4 +34,4 @@ To run this project, install the following:
 ## Maintainers
 
 - [Iman Mohammadi](https://github.com/Imanm02)
-- [Alireza Haqi](ali123haghi@gmail.com)
+- [Alireza Haqi](https://github.com/alirezahaqi)
