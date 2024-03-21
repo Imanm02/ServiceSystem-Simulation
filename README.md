@@ -1,5 +1,5 @@
 # Service System Simulation
-Solutions to Dr. Safaei's CE634: Computer Simulation (Sharif University of Technology - Fall 2023) Assignments
+Service System Simulation, Project of the Dr. Safaei's CE634: Computer Simulation Course
 
 ## Overview
 This project simulates a service delivery system for a company, focusing on task allocation among employees and service utilization by customers. It's designed to help understand and optimize service delivery processes and queue management. The simulation models various service scenarios, employee task switching based on predefined categories, and customer interactions with the system.
